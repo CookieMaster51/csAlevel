@@ -1,2 +1,4 @@
 test_gpt.py
 *.token
+py_to_pdf.py
+*.pdf
